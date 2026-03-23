@@ -19,7 +19,7 @@
 Cơ sở dữ liệu quan hệ thường được sử dụng rộng rãi trong các ứng dụng và hệ thống để lưu trữ và quản lý dữ liệu một cách có tổ chức, dễ dàng truy xuất và tương tác.
 `
 
-# Lợi ích và hạn chế của RDBMS
+# Lợi ích và hạn chế của RDBMS (Relational Database Management System, có nghĩa là Hệ quản trị cơ sở dữ liệu quan hệ)
 
 ## Ưu điểm:
 
